@@ -142,4 +142,4 @@ Yes — download again and repeat the steps.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*urban-pixel-923 · Updated 2026-10-08 · Shared under the MIT License*
+*urban-pixel-923 · Updated 2026-10-09 · Shared under the MIT License*
